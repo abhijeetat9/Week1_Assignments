@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
       "anagram": "npx jest ./01-JS/tests/anagram.test.js",
-      "calculator":
-      "countVowels":
-      "expenditure-analysis":
-      "findLargestElement":
-      "palindrome":
-      "todo-list":
+      "calculator": "npx jest ./01-JS/tests/calculator.test.js",
+      "countVowels": "npx jest ./01-JS/tests/countVowels.test.js",
+      "expenditure-analysis": "npx jest ./01-JS/tests/expenditure-analysis.test.js",
+      "findLargestElement": "npx jest ./01-JS/tests/findLargestElement.test.js",
+      "palindrome": "npx jest ./01-JS/tests/palindrome.test.js",
+      "todo-list": "npx jest ./01-JS/tests/todo-list.test.js"
   },
   "keywords": [],
   "author": "",
